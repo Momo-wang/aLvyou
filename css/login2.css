@@ -1,0 +1,101 @@
+*{
+	margin: 0PX;
+	padding: 0PX;
+}
+body{
+	background: url(../img/wallpaper.jpg);
+}
+.login2 {
+	width: 982px;
+	height: 373px;
+	margin: 230px auto;
+	background:white;
+	border-radius: 2px;
+	/*border: 1px solid red;*/
+}
+.login2 .logLeft {
+	width: 490px;
+	height: 373px;
+	float: left;
+	/*border: 1px solid red;*/
+}
+.login2 .logLeft .left{
+	width: 460px;
+	height: 330px;
+	margin: 30px 0px 15px 25px;
+	/*border: 1px solid red;*/
+}
+.login2 .logLeft .left .box{
+	width:333px;
+	height: 273px;
+	/*border: 1px solid red;*/	
+}
+.login2 .logLeft .left .box span {
+	font-size: 13px;
+	color: #606060;
+	
+}
+.login2 .logLeft .left .box .b1{
+	width: 238px;
+	height: 30px;
+	border-radius: 5px;	
+	margin-top: 30px;
+}
+.login2 .logLeft .left .box .b2{
+	width: 238px;
+	height: 30px;
+	border-radius: 5px;	
+	margin-top: 30px;	
+}
+.login2 .logLeft .left .box .b3{
+	width: 238px;
+	height: 30px;
+	border-radius: 5px;	
+	margin-top: 30px;		
+}
+.login2 .logLeft .left .box .button{
+	background-color: #82cb2d;
+	margin:40px 0px 0px 80px;
+	width:114px ;
+	height: 35px;
+	color: white;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.login2 .logLeft .left .lg{
+	width: 90px;
+	height: 30px;
+	font-size:20px ;
+	border-bottom:5px solid #82cb2d;
+}
+.login2 .logRight {
+	width: 488px;
+	height: 373px;
+	float: right;
+	/*border: 1px solid red;*/	
+}
+.login2 .logRight .right {
+	width: 460px;
+	height: 330px;
+	margin: 30px 0px 15px 0px;
+	border-left:2px solid #a6a3a3;
+	/*border: 1px solid red;*/
+}
+.login2 .logRight .right .lg2{
+	width: 90px;
+	height: 30px;
+	font-size:20px ;
+	margin-left: 20px;
+	border-bottom:5px solid #82cb2d;
+}
+.login2 .logRight .right .picture{
+	width: 385px;
+	height: 170px;	
+	margin: 40px auto;
+	background: url(../img/head.png) -700px -120px no-repeat;
+}
+.login2 .logRight .right .floor {
+	font-size:10px ;
+	color:#551a8b;
+	margin-left: 300px;
+}

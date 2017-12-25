@@ -1,0 +1,126 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.clear{
+	clear:both;
+	overflow: hidden;
+	height: 0;
+}
+body {
+	width: 100%;
+	height: 100%;
+	background: url(../img/bg.jpg)repeat;
+	/*background-size: cover;*/
+   /*	border: 1px solid red;*/
+	/*margin-top: 100px;*/
+}
+.body .login{
+ 	width: 980px;
+	height: 380px;
+	background: white;
+	margin: 200px auto;
+/*	border: 1px solid red;*/
+ 	}
+ 	
+.body .login .logLeft {
+	width: 570px;
+	height: 380px;
+	float: left;
+	background: #f6f6f6;
+	/*border: 1px solid red;*/
+}
+.body .login .picture {
+	width: 500px;
+	height: 310px;
+	margin-left:34px ;
+	margin-top: 30px;
+}
+.body .login .picture .pcleft {
+	width:195px;
+	height: 306px;
+	float: left;
+}
+.body .login .picture .pcleft img {
+	width:195px;
+	height: 306px;
+}
+.body .login .picture .pcRight {
+	width:293px;
+	height: 306px;
+	float: right;
+/*	border: 1px solid red;*/
+}
+.body .login .picture .pcRight .pctop {
+	width:295px;
+	height:150px;
+}
+.body .login .picture .pcRight .pctop img {
+	width:295px;
+	height:150px;
+}
+.body .login .picture .pcRight .buttom {
+	width:295px;
+	height:150px;
+	border: 1px solid #75C50A;
+	border-radius: 5px;
+}
+.body .login .picture .pcRight .buttom img{
+	width:145px;
+	height:150px;
+}
+.body .login .logRight {
+	background: white;
+	width:410px;
+	height:380px;
+	float: right;
+	/*border: 1px solid red;*/
+}
+.body .login .logRight .rightbd {
+	width:355px;
+	height:350px;
+	margin: 15px auto;
+	/*border: 1px solid red;*/
+}
+.body .login .logRight .rightbd strong {
+	margin: 10px 0px 15px 15px;
+	font-size: 18px;
+	color: #606060;
+}
+#username {
+	width:330px;
+	height:40px;
+	font-size:16px;
+	margin: 10px 20px 10px 15px;
+}
+#password{
+	width:330px;
+	height:40px;
+	font-size:16px;
+	margin: 10px 20px 10px 15px;
+}
+.body .login .logRight .rightbd .table .button {
+	background-color: #82cb2d;
+	margin: 20px 10px 15px 15px;
+	width:114px ;
+	height: 35px;
+	border-radius: 5px;
+}
+.body .login .logRight .rightbd .table .dl{
+	margin: 20px 10px 15px 35px;
+}
+.body .login .logRight .rightbd .picture {
+	width:330px;
+	height:40px;
+	margin:0px auto;
+	background: url(../img/head.png) -303px -123px no-repeat;
+	/*border: 1px solid red;*/
+}
+.body .login .logRight .rightbd .floor{
+	width:210px;
+	height:25px;
+	font-size: 10px;
+	color: #5500ee;
+	margin:10px 0px 0px 130px ;
+	/*border: 1px solid red;*/
+}
